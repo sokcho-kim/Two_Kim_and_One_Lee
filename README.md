@@ -1,1 +1,1 @@
-포텐업 메인 프로젝트 #2 5조 김둘 이하나
+# POTEN_UP_MAIN_PROJECT#2
